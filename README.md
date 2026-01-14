@@ -1,11 +1,11 @@
-## Halaman Publik
+**Halaman Publik**
 - Daftar artikel 
 -  Pencarian artikel
 -  Filter berdasarkan kategori
 -  Halaman detail artikel
 
 
-### Admin Panel
+ Admin Panel
 -  Sistem login admin
 -  Dashboard dengan statistik
 -  Buat artikel baru
@@ -13,20 +13,20 @@
 -  Hapus artikel
 -  Preview artikel
 
-##  Teknologi
+  Teknologi
 
 - **Framework**: Laravel 12.x
 - **Database**: MySQL
 - **Frontend**: Blade Template Engine, Tailwind CSS
 
-## 📦 Requirements
+**Requirements**
 
 - PHP >= 8.2
 - Composer
 - MySQL/MariaDB
 
 
-## 🔧 Instalasi
+##  Instalasi
 
 ### 1. Clone Repository
 
@@ -86,9 +86,6 @@ Setelah menjalankan seeder, Anda bisa login dengan kredensial berikut:
 - **Email**: admin@blogilham.com
 - **Password**: password123
 
-
-### MVC Architecture
-Project ini mengikuti arsitektur MVC Laravel dengan pemisahan yang jelas antara Model, View, dan Controller.
 
 ##  License
 
