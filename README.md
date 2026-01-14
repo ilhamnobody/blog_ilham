@@ -13,11 +13,7 @@
 -  Hapus artikel
 -  Preview artikel
 
-  Teknologi
 
-- **Framework**: Laravel 12.x
-- **Database**: MySQL
-- **Frontend**: Blade Template Engine, Tailwind CSS
 
 **Requirements**
 
