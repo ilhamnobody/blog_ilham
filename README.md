@@ -79,7 +79,7 @@ php artisan serve
 
 Aplikasi akan berjalan di `http://localhost:8000`
 
-##  Default Login Admin
+**Default Login Admin**
 
 Setelah menjalankan seeder, Anda bisa login dengan kredensial berikut:
 
